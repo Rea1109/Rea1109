@@ -1,4 +1,4 @@
-# Hi There 👋🏻
+# Hi There ! 
 <div>
   <img src="https://img.shields.io/badge/-Java-5c5c5c?style=flat&logo=Java" />
   <img src="https://img.shields.io/badge/-JavaScript-5c5c5c?style=flat&logo=JavaScript" />
@@ -20,6 +20,7 @@
 </div>
 
 ---
+### Click Here
 [<img src="https://img.shields.io/badge/-Notion-5c5c5c?style=flat&logo=Notion" />](https://readevenote.notion.site/c836f3307b0d460b8fc2488b58e0ab67)
 
   
