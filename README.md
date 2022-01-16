@@ -1,4 +1,4 @@
-# Hi There ! 
+# what i am studying....
 <div>
   <img src="https://img.shields.io/badge/-Java-5c5c5c?style=flat&logo=Java" />
   <img src="https://img.shields.io/badge/-JavaScript-5c5c5c?style=flat&logo=JavaScript" />
