@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/-Oracle-5c5c5c?style=flat&logo=Oracle"/>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rea1109&layout=compact)](https://github.com/Rea1109/github-readme-stats)
 ---
 ### Click Here
 [<img src="https://img.shields.io/badge/-Notion-5c5c5c?style=flat&logo=Notion" />](https://readevenote.notion.site/c836f3307b0d460b8fc2488b58e0ab67)
