@@ -15,7 +15,7 @@
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/-Apollo GraphQL-5c5c5c?style=flat&logo=Apollo GraphQL" />
+  <img src="https://img.shields.io/badge/-GraphQL-5c5c5c?style=flat&logo=GraphQL" />
   <img src="https://img.shields.io/badge/-Oracle-5c5c5c?style=flat&logo=Oracle"/>
 </div>
 
