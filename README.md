@@ -19,6 +19,3 @@
   <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
    <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
 </div>
-
-### status
-![Rea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rea1109&show_icons=true&theme=vue)
